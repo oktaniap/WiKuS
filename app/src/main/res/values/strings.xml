@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WiKuS</string>
+    <string name="definisi_aplikasi">Aplikasi WiKu Sidoarjo adalah aplikasi mengenai daftar wisata dan kuliner yang ada di Sidoarjo, serta bisa mencatat riwayat wisata dan kuliner yang ingin dikunjungi.</string>
+    <string name="todo">TODO</string>
+    <string name="register">Register</string>
+    <string name="login">LOGIN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="wisata">WISATA</string>
+    <string name="kuliner">KULINER</string>
+    <string name="catatan">WISHLIST</string>
+    <string name="wisata_sidoarjo">Wisata Sidoarjo</string>
+    <string name="kuliner_sidoarjo">Kuliner Sidoarjo</string>
+    <string name="wishlistku">Wishlistku</string>
+    <string name="wisata_kuliner">Wisata/Kuliner</string>
+    <string name="catatan1">Catatan</string>
+    <string name="prioritas">Prioritas</string>
+    <string name="profil_mahasiswa">Profil Mahasiswa</string>
+    <string name="ttl">Sidoarjo, 17 Oktober 2000</string>
+    <string name="npm">18082010029</string>
+    <string name="nama">OKTANIA PURWANINGRUM</string>
+    <string name="alamat">Jalan Jatisari No. 79</string>
+    <string name="email">oktaniap@gmail.com</string>
+</resources>
